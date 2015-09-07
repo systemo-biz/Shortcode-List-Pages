@@ -5,7 +5,7 @@ Description: Shortcode [list_pages_s post_type='page' child_of="33" depth="3" ti
 Plugin URI: https://github.com/systemo-biz/shortcode-list-pages
 Author: Systemo.biz
 Author URI: http://systemo.biz
-Version: 0.1
+Version: 0.2
 */
 
 add_shortcode( 'list_pages_s', function($atts){
