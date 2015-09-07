@@ -2,7 +2,7 @@
 /*
 Plugin Name: Shortcode List Pages
 Description: Shortcode [list_pages_s post_type='page' child_of="33" depth="3" title_li=""]
-Plugin URI: http://systemo.biz
+Plugin URI: https://github.com/systemo-biz/shortcode-list-pages
 Author: Systemo.biz
 Author URI: http://systemo.biz
 Version: 0.1
